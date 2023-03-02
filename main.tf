@@ -15,7 +15,7 @@ terraform {
     organization = "wsantos_babbel_com"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "demo-github-actions"
     }
   }
 }
